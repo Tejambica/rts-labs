@@ -1,2 +1,2 @@
 # rts-labs
-RTS labs Coding Excercise
+RTS labs Coding Exercise
